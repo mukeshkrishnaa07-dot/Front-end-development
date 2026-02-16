@@ -1,4 +1,3 @@
-<img width="1919" height="1076" alt="image" src="https://github.com/user-attachments/assets/ae254b7a-609a-49df-8b56-86898f2c6df9" /># Front-end-development
 
 demo for personal information page - https://mukeshkrishnaa07-dot.github.io/Front-end-development/personal%20information.html<img width="1055" height="671" alt="Screenshot 2026-02-02 092112" src="https://github.com/user-attachments/assets/8404e7d9-2e1c-4b62-8275-63f879843a2a" />
 
