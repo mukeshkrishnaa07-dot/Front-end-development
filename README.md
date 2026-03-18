@@ -6,3 +6,5 @@ demo for registration form-https://mukeshkrishnaa07-dot.github.io/Front-end-deve
 demp for notice board https://mukeshkrishnaa07-dot.github.io/Front-end-development/school%20notice%20board
 demo for photo gallery https://mukeshkrishnaa07-dot.github.io/Front-end-development/photo%20gallery.html
 <img width="1919" height="1076" alt="Screenshot 2026-02-16 085554" src="https://github.com/user-attachments/assets/fc94754c-a9ed-405d-b9d8-a23a84d02f36" />
+demo for Hover effect https://mukeshkrishnaa07-dot.github.io/Front-end-development/hover.html
+<img width="1296" height="1057" alt="Screenshot 2026-03-18 110201" src="https://github.com/user-attachments/assets/b54ea74c-4a7b-42c0-a1b7-4de166058977" />
